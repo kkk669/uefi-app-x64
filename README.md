@@ -4,7 +4,7 @@ Example Rust project for building UEFI applications.
 
 ## Requirements
 
- - rustup (nightly)
+ - rustup
  - Xargo
 
 ## Building
